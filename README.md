@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TemnyZlo
-- 👀 I’m interested in development
-- 🌱 I’m currently learning more 
+- 👀 I’m interested in web apps and games development
+- 🌱 I’m currently learning more C# and PHP
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me ...try filipebertcz@gmail.com or www.linkedin.com/in/filip-ebert-7781441a7/
 
