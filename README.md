@@ -36,7 +36,7 @@ I'm a software engineer who lives at the intersection of robust backend logic an
 ### 📞 Connect with the Dev
 * **LinkedIn:** [linkedin.com/in/filip-ebert-7781441a7/](https://www.linkedin.com/in/filip-ebert-7781441a7/)
 * **Email:** [filipebertcz@gmail.com](mailto:filipebertcz@gmail.com)
-* **WEB:** [notapanda.com)
+* **WEB:** ([notapanda.com](https://www.notapanda.dev/))
 * **Signal:** `[Object Object]` (Just kidding, use the links above!)
 
 ---
